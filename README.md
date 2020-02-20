@@ -1,1 +1,1 @@
-# -ocrd_anybaseocr_block_segmentation
+# Ocrd_anybaseocr_block_segmentation
