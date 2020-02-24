@@ -1,6 +1,6 @@
 # Ocrd_anybaseocr_block_segmentation
 
-This repository contains code infrastructure to implement training for block segemntation. This repository is created for OCR-D in reference to https://github.com/mjenckel/ocrd_anybaseocr. Some of the scripts are taken from https://github.com/matterport/Mask_RCNN.
+This repository contains code infrastructure to implement training for block segemntation. This repository is created for OCR-D in reference to https://github.com/mjenckel/ocrd_anybaseocr. The scripts for training the Mask-RCNN are taken from https://github.com/matterport/Mask_RCNN.
 
 This file explains all the necessary steps from preprocessing to the training of the dataset on Mask-RCNN model.
 
