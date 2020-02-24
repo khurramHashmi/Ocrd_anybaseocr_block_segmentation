@@ -34,7 +34,13 @@ The scripts counts all the samples, helps you visualize the polygons on the imag
 To learn more about scirpt, you can visit https://github.com/matterport/Mask_RCNN.
 
 
-## Training
+## Training the Model
+
+All the model related files are stored in mrcnn folder.
+
+Apart from Config.py, all other files are same as in https://github.com/matterport/Mask_RCNN.
+
+Parameters in Config.py is changed according to the requirements.
 
 Once the dataset is verified, then training can be started. Training can be done in various ways :
 
